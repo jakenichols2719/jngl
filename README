@@ -3,4 +3,6 @@ a 3d untextured scene using multiple point lights. For textures
 as well as shadows from a single point light, you can see my CSCI
 4239 project.
 
+All code in the base repository is test code--the library itself is located in /lib.
+
 --Jake Nichols (28)
