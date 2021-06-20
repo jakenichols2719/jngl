@@ -1,0 +1,3 @@
+Alright, multiple lights casting shadows is not working.
+Pivot: One scene light which always casts shadows, and calculate
+closest point light to the player to cast shadows as well.

@@ -1,0 +1,6 @@
+This is a test program for the JNGL library. Right now, it renders
+a 3d untextured scene using multiple point lights. For textures
+as well as shadows from a single point light, you can see my CSCI
+4239 project.
+
+--Jake Nichols (28)

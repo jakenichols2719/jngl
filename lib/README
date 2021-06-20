@@ -1,0 +1,8 @@
+JNGL is an OpenGL display library, designed to represent my current
+level of knowledge and understanding of computer graphics. As such,
+it will most likely never be in a "finished" state, instead existing
+with all of the features I am capable of implementing. Any unfinished
+features left are things that I am still working through.
+
+External Code Used:
+G-Truc GLM (OpenGL Mathematics)

@@ -1,0 +1,21 @@
+JNGL: Initializing GLFW
+JNGL: Creating window
+JNGL: Context created successfully
+JNGL: Creating shader with vertex file shaders/def_depth.vert
+JNGL: Compiling shader
+JNGL: Creating shader with vertex file shaders/def_render.vert
+JNGL: Compiling shader
+JNGL: New scene created: 0x558f80206468
+JNGL: Loading object desert from folder .
+JNGL: desert loaded
+JNGL: Loading object cube from folder .
+JNGL: cube loaded
+JNGL: Added new object 0x558f81db0aa0 to scene 0x558f80206468
+JNGL: Added new object 0x558f81e628e0 to scene 0x558f80206468
+JNGL: Added new object 0x558f82011c40 to scene 0x558f80206468
+JNGL: Added new object 0x558f82011ca0 to scene 0x558f80206468
+JNGL: Added new object 0x558f820764e0 to scene 0x558f80206468
+JNGL: Added new object 0x558f82076540 to scene 0x558f80206468
+JNGL: Added new object 0x558f820765a0 to scene 0x558f80206468
+JNGL: Added new object 0x558f82076600 to scene 0x558f80206468
+JNGL: Added new object 0x558f81e92bb0 to scene 0x558f80206468
